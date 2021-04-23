@@ -1,0 +1,5247 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rss version="2.0">
+<channel>
+<title>기상청 육상 중기예보</title>
+<link>http://www.kma.go.kr/weather/forecast/mid-term_02.jsp</link>
+<description>기상청 날씨 웹서비스</description>
+<language>ko</language>
+<generator>기상청</generator>
+<pubDate>2021년 04월 21일 (수)요일 18:00</pubDate>
+ <item>
+<author>기상청</author>
+<category>육상중기예보</category>
+<title>서울,경기도 육상 중기예보 - 2021년 04월 21일 (수)요일 18:00 발표</title>
+<link>http://www.kma.go.kr/weather/forecast/mid-term_02.jsp</link>
+<guid>http://www.kma.go.kr/weather/forecast/mid-term_02.jsp</guid>
+<description>
+	<header>
+		<title>서울,경기도 육상중기예보</title>
+		<tm>202104211800</tm>
+		<wf><![CDATA[○ (기온) 이번 예보기간의 아침최저기온은 7~13도로 오늘(10일, 5~10도)보다 조금 높겠고, 낮최고기온은 16~24도로 오늘(21일, 25~30도)보다 낮겠습니다. <br />○ (건조) 이번 예보기간에는 강수가 없는 날씨가 이어지면서 대기가 건조하겠으니, 산불 등 각종 화재에 유의하기 바랍니다.<br />○ (해상) 서해중부해상의 물결은 0.5~2.0m로 일겠습니다.<br />○ (주말전망) 24일(토)은 구름많다가 오후에 맑겠고, 25일(일)은 맑다가 오후에 구름많겠습니다. 아침 기온은 9~13도, 낮 기온은 20~24도가 되겠습니다.]]></wf>
+	</header>
+	<body>
+				
+
+		<location wl_ver="3">
+				<province>서울ㆍ인천ㆍ경기도</province>
+				<city>서울</city>
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-04-24 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>13</tmn>
+					<tmx>23</tmx>
+					<reliability></reliability>
+					<rnSt>20</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-04-24 12:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>13</tmn>
+					<tmx>23</tmx>
+					<reliability></reliability>
+					<rnSt>0</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-04-25 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>12</tmn>
+					<tmx>23</tmx>
+					<reliability></reliability>
+					<rnSt>0</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-04-25 12:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>12</tmn>
+					<tmx>23</tmx>
+					<reliability></reliability>
+					<rnSt>30</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-04-26 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>11</tmn>
+					<tmx>21</tmx>
+					<reliability></reliability>
+					<rnSt>30</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-04-26 12:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>11</tmn>
+					<tmx>21</tmx>
+					<reliability></reliability>
+					<rnSt>30</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-04-27 00:00</tmEf>
+					<wf>흐림</wf>
+					<tmn>11</tmn>
+					<tmx>18</tmx>
+					<reliability></reliability>
+					<rnSt>40</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-04-27 12:00</tmEf>
+					<wf>흐림</wf>
+					<tmn>11</tmn>
+					<tmx>18</tmx>
+					<reliability></reliability>
+					<rnSt>40</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-04-28 00:00</tmEf>
+					<wf>흐림</wf>
+					<tmn>11</tmn>
+					<tmx>19</tmx>
+					<reliability></reliability>
+					<rnSt>40</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-04-28 12:00</tmEf>
+					<wf>흐림</wf>
+					<tmn>11</tmn>
+					<tmx>19</tmx>
+					<reliability></reliability>
+					<rnSt>40</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2021-04-29 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>11</tmn>
+					<tmx>20</tmx>
+					<reliability></reliability>
+					<rnSt>20</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2021-04-30 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>10</tmn>
+					<tmx>19</tmx>
+					<reliability></reliability>
+					<rnSt>20</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2021-05-01 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>10</tmn>
+					<tmx>20</tmx>
+					<reliability></reliability>
+					<rnSt>20</rnSt>
+				</data>
+
+
+		</location>
+
+		<location wl_ver="3">
+				<province>서울ㆍ인천ㆍ경기도</province>
+				<city>인천</city>
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-04-24 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>13</tmn>
+					<tmx>21</tmx>
+					<reliability></reliability>
+					<rnSt>20</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-04-24 12:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>13</tmn>
+					<tmx>21</tmx>
+					<reliability></reliability>
+					<rnSt>0</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-04-25 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>12</tmn>
+					<tmx>20</tmx>
+					<reliability></reliability>
+					<rnSt>0</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-04-25 12:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>12</tmn>
+					<tmx>20</tmx>
+					<reliability></reliability>
+					<rnSt>30</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-04-26 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>11</tmn>
+					<tmx>18</tmx>
+					<reliability></reliability>
+					<rnSt>30</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-04-26 12:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>11</tmn>
+					<tmx>18</tmx>
+					<reliability></reliability>
+					<rnSt>30</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-04-27 00:00</tmEf>
+					<wf>흐림</wf>
+					<tmn>11</tmn>
+					<tmx>16</tmx>
+					<reliability></reliability>
+					<rnSt>40</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-04-27 12:00</tmEf>
+					<wf>흐림</wf>
+					<tmn>11</tmn>
+					<tmx>16</tmx>
+					<reliability></reliability>
+					<rnSt>40</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-04-28 00:00</tmEf>
+					<wf>흐림</wf>
+					<tmn>11</tmn>
+					<tmx>17</tmx>
+					<reliability></reliability>
+					<rnSt>40</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-04-28 12:00</tmEf>
+					<wf>흐림</wf>
+					<tmn>11</tmn>
+					<tmx>17</tmx>
+					<reliability></reliability>
+					<rnSt>40</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2021-04-29 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>11</tmn>
+					<tmx>17</tmx>
+					<reliability></reliability>
+					<rnSt>20</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2021-04-30 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>10</tmn>
+					<tmx>16</tmx>
+					<reliability></reliability>
+					<rnSt>20</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2021-05-01 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>10</tmn>
+					<tmx>17</tmx>
+					<reliability></reliability>
+					<rnSt>20</rnSt>
+				</data>
+
+
+		</location>
+
+		<location wl_ver="3">
+				<province>서울ㆍ인천ㆍ경기도</province>
+				<city>수원</city>
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-04-24 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>11</tmn>
+					<tmx>23</tmx>
+					<reliability></reliability>
+					<rnSt>20</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-04-24 12:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>11</tmn>
+					<tmx>23</tmx>
+					<reliability></reliability>
+					<rnSt>0</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-04-25 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>10</tmn>
+					<tmx>23</tmx>
+					<reliability></reliability>
+					<rnSt>0</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-04-25 12:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>10</tmn>
+					<tmx>23</tmx>
+					<reliability></reliability>
+					<rnSt>30</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-04-26 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>10</tmn>
+					<tmx>21</tmx>
+					<reliability></reliability>
+					<rnSt>30</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-04-26 12:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>10</tmn>
+					<tmx>21</tmx>
+					<reliability></reliability>
+					<rnSt>30</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-04-27 00:00</tmEf>
+					<wf>흐림</wf>
+					<tmn>10</tmn>
+					<tmx>19</tmx>
+					<reliability></reliability>
+					<rnSt>40</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-04-27 12:00</tmEf>
+					<wf>흐림</wf>
+					<tmn>10</tmn>
+					<tmx>19</tmx>
+					<reliability></reliability>
+					<rnSt>40</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-04-28 00:00</tmEf>
+					<wf>흐림</wf>
+					<tmn>10</tmn>
+					<tmx>20</tmx>
+					<reliability></reliability>
+					<rnSt>40</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-04-28 12:00</tmEf>
+					<wf>흐림</wf>
+					<tmn>10</tmn>
+					<tmx>20</tmx>
+					<reliability></reliability>
+					<rnSt>40</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2021-04-29 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>10</tmn>
+					<tmx>20</tmx>
+					<reliability></reliability>
+					<rnSt>20</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2021-04-30 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>9</tmn>
+					<tmx>19</tmx>
+					<reliability></reliability>
+					<rnSt>20</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2021-05-01 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>9</tmn>
+					<tmx>20</tmx>
+					<reliability></reliability>
+					<rnSt>20</rnSt>
+				</data>
+
+
+		</location>
+
+		<location wl_ver="3">
+				<province>서울ㆍ인천ㆍ경기도</province>
+				<city>파주</city>
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-04-24 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>10</tmn>
+					<tmx>24</tmx>
+					<reliability></reliability>
+					<rnSt>20</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-04-24 12:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>10</tmn>
+					<tmx>24</tmx>
+					<reliability></reliability>
+					<rnSt>0</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-04-25 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>9</tmn>
+					<tmx>23</tmx>
+					<reliability></reliability>
+					<rnSt>0</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-04-25 12:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>9</tmn>
+					<tmx>23</tmx>
+					<reliability></reliability>
+					<rnSt>30</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-04-26 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>9</tmn>
+					<tmx>21</tmx>
+					<reliability></reliability>
+					<rnSt>30</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-04-26 12:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>9</tmn>
+					<tmx>21</tmx>
+					<reliability></reliability>
+					<rnSt>30</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-04-27 00:00</tmEf>
+					<wf>흐림</wf>
+					<tmn>10</tmn>
+					<tmx>19</tmx>
+					<reliability></reliability>
+					<rnSt>40</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-04-27 12:00</tmEf>
+					<wf>흐림</wf>
+					<tmn>10</tmn>
+					<tmx>19</tmx>
+					<reliability></reliability>
+					<rnSt>40</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-04-28 00:00</tmEf>
+					<wf>흐림</wf>
+					<tmn>9</tmn>
+					<tmx>20</tmx>
+					<reliability></reliability>
+					<rnSt>40</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-04-28 12:00</tmEf>
+					<wf>흐림</wf>
+					<tmn>9</tmn>
+					<tmx>20</tmx>
+					<reliability></reliability>
+					<rnSt>40</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2021-04-29 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>9</tmn>
+					<tmx>20</tmx>
+					<reliability></reliability>
+					<rnSt>20</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2021-04-30 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>7</tmn>
+					<tmx>19</tmx>
+					<reliability></reliability>
+					<rnSt>20</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2021-05-01 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>7</tmn>
+					<tmx>20</tmx>
+					<reliability></reliability>
+					<rnSt>20</rnSt>
+				</data>
+
+
+		</location>
+
+		<location wl_ver="3">
+				<province>서울ㆍ인천ㆍ경기도</province>
+				<city>이천</city>
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-04-24 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>10</tmn>
+					<tmx>24</tmx>
+					<reliability></reliability>
+					<rnSt>20</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-04-24 12:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>10</tmn>
+					<tmx>24</tmx>
+					<reliability></reliability>
+					<rnSt>0</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-04-25 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>10</tmn>
+					<tmx>24</tmx>
+					<reliability></reliability>
+					<rnSt>0</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-04-25 12:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>10</tmn>
+					<tmx>24</tmx>
+					<reliability></reliability>
+					<rnSt>30</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-04-26 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>9</tmn>
+					<tmx>23</tmx>
+					<reliability></reliability>
+					<rnSt>30</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-04-26 12:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>9</tmn>
+					<tmx>23</tmx>
+					<reliability></reliability>
+					<rnSt>30</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-04-27 00:00</tmEf>
+					<wf>흐림</wf>
+					<tmn>9</tmn>
+					<tmx>21</tmx>
+					<reliability></reliability>
+					<rnSt>40</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-04-27 12:00</tmEf>
+					<wf>흐림</wf>
+					<tmn>9</tmn>
+					<tmx>21</tmx>
+					<reliability></reliability>
+					<rnSt>40</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-04-28 00:00</tmEf>
+					<wf>흐림</wf>
+					<tmn>9</tmn>
+					<tmx>21</tmx>
+					<reliability></reliability>
+					<rnSt>40</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-04-28 12:00</tmEf>
+					<wf>흐림</wf>
+					<tmn>9</tmn>
+					<tmx>21</tmx>
+					<reliability></reliability>
+					<rnSt>40</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2021-04-29 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>9</tmn>
+					<tmx>21</tmx>
+					<reliability></reliability>
+					<rnSt>20</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2021-04-30 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>8</tmn>
+					<tmx>20</tmx>
+					<reliability></reliability>
+					<rnSt>20</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2021-05-01 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>7</tmn>
+					<tmx>21</tmx>
+					<reliability></reliability>
+					<rnSt>20</rnSt>
+				</data>
+
+
+		</location>
+
+		<location wl_ver="3">
+				<province>서울ㆍ인천ㆍ경기도</province>
+				<city>평택</city>
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-04-24 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>11</tmn>
+					<tmx>24</tmx>
+					<reliability></reliability>
+					<rnSt>20</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-04-24 12:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>11</tmn>
+					<tmx>24</tmx>
+					<reliability></reliability>
+					<rnSt>0</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-04-25 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>10</tmn>
+					<tmx>24</tmx>
+					<reliability></reliability>
+					<rnSt>0</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-04-25 12:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>10</tmn>
+					<tmx>24</tmx>
+					<reliability></reliability>
+					<rnSt>30</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-04-26 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>10</tmn>
+					<tmx>22</tmx>
+					<reliability></reliability>
+					<rnSt>30</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-04-26 12:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>10</tmn>
+					<tmx>22</tmx>
+					<reliability></reliability>
+					<rnSt>30</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-04-27 00:00</tmEf>
+					<wf>흐림</wf>
+					<tmn>10</tmn>
+					<tmx>21</tmx>
+					<reliability></reliability>
+					<rnSt>40</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-04-27 12:00</tmEf>
+					<wf>흐림</wf>
+					<tmn>10</tmn>
+					<tmx>21</tmx>
+					<reliability></reliability>
+					<rnSt>40</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-04-28 00:00</tmEf>
+					<wf>흐림</wf>
+					<tmn>10</tmn>
+					<tmx>21</tmx>
+					<reliability></reliability>
+					<rnSt>40</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-04-28 12:00</tmEf>
+					<wf>흐림</wf>
+					<tmn>10</tmn>
+					<tmx>21</tmx>
+					<reliability></reliability>
+					<rnSt>40</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2021-04-29 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>10</tmn>
+					<tmx>21</tmx>
+					<reliability></reliability>
+					<rnSt>20</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2021-04-30 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>9</tmn>
+					<tmx>20</tmx>
+					<reliability></reliability>
+					<rnSt>20</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2021-05-01 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>9</tmn>
+					<tmx>21</tmx>
+					<reliability></reliability>
+					<rnSt>20</rnSt>
+				</data>
+
+
+		</location>
+
+		<location wl_ver="3">
+				<province>서울ㆍ인천ㆍ경기도</province>
+				<city>백령도</city>
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-04-24 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>9</tmn>
+					<tmx>19</tmx>
+					<reliability></reliability>
+					<rnSt>20</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-04-24 12:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>9</tmn>
+					<tmx>19</tmx>
+					<reliability></reliability>
+					<rnSt>0</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-04-25 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>10</tmn>
+					<tmx>18</tmx>
+					<reliability></reliability>
+					<rnSt>0</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-04-25 12:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>10</tmn>
+					<tmx>18</tmx>
+					<reliability></reliability>
+					<rnSt>30</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-04-26 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>10</tmn>
+					<tmx>16</tmx>
+					<reliability></reliability>
+					<rnSt>30</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-04-26 12:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>10</tmn>
+					<tmx>16</tmx>
+					<reliability></reliability>
+					<rnSt>30</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-04-27 00:00</tmEf>
+					<wf>흐림</wf>
+					<tmn>9</tmn>
+					<tmx>16</tmx>
+					<reliability></reliability>
+					<rnSt>40</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-04-27 12:00</tmEf>
+					<wf>흐림</wf>
+					<tmn>9</tmn>
+					<tmx>16</tmx>
+					<reliability></reliability>
+					<rnSt>40</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-04-28 00:00</tmEf>
+					<wf>흐림</wf>
+					<tmn>9</tmn>
+					<tmx>16</tmx>
+					<reliability></reliability>
+					<rnSt>40</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-04-28 12:00</tmEf>
+					<wf>흐림</wf>
+					<tmn>9</tmn>
+					<tmx>16</tmx>
+					<reliability></reliability>
+					<rnSt>40</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2021-04-29 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>9</tmn>
+					<tmx>15</tmx>
+					<reliability></reliability>
+					<rnSt>20</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2021-04-30 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>9</tmn>
+					<tmx>16</tmx>
+					<reliability></reliability>
+					<rnSt>20</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2021-05-01 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>9</tmn>
+					<tmx>17</tmx>
+					<reliability></reliability>
+					<rnSt>20</rnSt>
+				</data>
+
+
+		</location>
+
+		<location wl_ver="3">
+				<province>서울ㆍ인천ㆍ경기도</province>
+				<city>과천</city>
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-04-24 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>11</tmn>
+					<tmx>24</tmx>
+					<reliability></reliability>
+					<rnSt>20</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-04-24 12:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>11</tmn>
+					<tmx>24</tmx>
+					<reliability></reliability>
+					<rnSt>0</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-04-25 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>9</tmn>
+					<tmx>24</tmx>
+					<reliability></reliability>
+					<rnSt>0</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-04-25 12:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>9</tmn>
+					<tmx>24</tmx>
+					<reliability></reliability>
+					<rnSt>30</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-04-26 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>10</tmn>
+					<tmx>22</tmx>
+					<reliability></reliability>
+					<rnSt>30</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-04-26 12:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>10</tmn>
+					<tmx>22</tmx>
+					<reliability></reliability>
+					<rnSt>30</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-04-27 00:00</tmEf>
+					<wf>흐림</wf>
+					<tmn>10</tmn>
+					<tmx>19</tmx>
+					<reliability></reliability>
+					<rnSt>40</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-04-27 12:00</tmEf>
+					<wf>흐림</wf>
+					<tmn>10</tmn>
+					<tmx>19</tmx>
+					<reliability></reliability>
+					<rnSt>40</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-04-28 00:00</tmEf>
+					<wf>흐림</wf>
+					<tmn>9</tmn>
+					<tmx>20</tmx>
+					<reliability></reliability>
+					<rnSt>40</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-04-28 12:00</tmEf>
+					<wf>흐림</wf>
+					<tmn>9</tmn>
+					<tmx>20</tmx>
+					<reliability></reliability>
+					<rnSt>40</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2021-04-29 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>11</tmn>
+					<tmx>20</tmx>
+					<reliability></reliability>
+					<rnSt>20</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2021-04-30 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>8</tmn>
+					<tmx>19</tmx>
+					<reliability></reliability>
+					<rnSt>20</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2021-05-01 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>8</tmn>
+					<tmx>21</tmx>
+					<reliability></reliability>
+					<rnSt>20</rnSt>
+				</data>
+
+
+		</location>
+
+		<location wl_ver="3">
+				<province>서울ㆍ인천ㆍ경기도</province>
+				<city>광명</city>
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-04-24 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>13</tmn>
+					<tmx>23</tmx>
+					<reliability></reliability>
+					<rnSt>20</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-04-24 12:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>13</tmn>
+					<tmx>23</tmx>
+					<reliability></reliability>
+					<rnSt>0</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-04-25 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>13</tmn>
+					<tmx>23</tmx>
+					<reliability></reliability>
+					<rnSt>0</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-04-25 12:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>13</tmn>
+					<tmx>23</tmx>
+					<reliability></reliability>
+					<rnSt>30</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-04-26 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>13</tmn>
+					<tmx>21</tmx>
+					<reliability></reliability>
+					<rnSt>30</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-04-26 12:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>13</tmn>
+					<tmx>21</tmx>
+					<reliability></reliability>
+					<rnSt>30</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-04-27 00:00</tmEf>
+					<wf>흐림</wf>
+					<tmn>12</tmn>
+					<tmx>19</tmx>
+					<reliability></reliability>
+					<rnSt>40</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-04-27 12:00</tmEf>
+					<wf>흐림</wf>
+					<tmn>12</tmn>
+					<tmx>19</tmx>
+					<reliability></reliability>
+					<rnSt>40</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-04-28 00:00</tmEf>
+					<wf>흐림</wf>
+					<tmn>12</tmn>
+					<tmx>19</tmx>
+					<reliability></reliability>
+					<rnSt>40</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-04-28 12:00</tmEf>
+					<wf>흐림</wf>
+					<tmn>12</tmn>
+					<tmx>19</tmx>
+					<reliability></reliability>
+					<rnSt>40</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2021-04-29 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>13</tmn>
+					<tmx>19</tmx>
+					<reliability></reliability>
+					<rnSt>20</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2021-04-30 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>10</tmn>
+					<tmx>17</tmx>
+					<reliability></reliability>
+					<rnSt>20</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2021-05-01 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>11</tmn>
+					<tmx>19</tmx>
+					<reliability></reliability>
+					<rnSt>20</rnSt>
+				</data>
+
+
+		</location>
+
+		<location wl_ver="3">
+				<province>서울ㆍ인천ㆍ경기도</province>
+				<city>강화</city>
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-04-24 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>11</tmn>
+					<tmx>22</tmx>
+					<reliability></reliability>
+					<rnSt>20</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-04-24 12:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>11</tmn>
+					<tmx>22</tmx>
+					<reliability></reliability>
+					<rnSt>0</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-04-25 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>10</tmn>
+					<tmx>22</tmx>
+					<reliability></reliability>
+					<rnSt>0</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-04-25 12:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>10</tmn>
+					<tmx>22</tmx>
+					<reliability></reliability>
+					<rnSt>30</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-04-26 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>11</tmn>
+					<tmx>17</tmx>
+					<reliability></reliability>
+					<rnSt>30</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-04-26 12:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>11</tmn>
+					<tmx>17</tmx>
+					<reliability></reliability>
+					<rnSt>30</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-04-27 00:00</tmEf>
+					<wf>흐림</wf>
+					<tmn>10</tmn>
+					<tmx>17</tmx>
+					<reliability></reliability>
+					<rnSt>40</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-04-27 12:00</tmEf>
+					<wf>흐림</wf>
+					<tmn>10</tmn>
+					<tmx>17</tmx>
+					<reliability></reliability>
+					<rnSt>40</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-04-28 00:00</tmEf>
+					<wf>흐림</wf>
+					<tmn>8</tmn>
+					<tmx>16</tmx>
+					<reliability></reliability>
+					<rnSt>40</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-04-28 12:00</tmEf>
+					<wf>흐림</wf>
+					<tmn>8</tmn>
+					<tmx>16</tmx>
+					<reliability></reliability>
+					<rnSt>40</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2021-04-29 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>10</tmn>
+					<tmx>18</tmx>
+					<reliability></reliability>
+					<rnSt>20</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2021-04-30 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>8</tmn>
+					<tmx>17</tmx>
+					<reliability></reliability>
+					<rnSt>20</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2021-05-01 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>8</tmn>
+					<tmx>20</tmx>
+					<reliability></reliability>
+					<rnSt>20</rnSt>
+				</data>
+
+
+		</location>
+
+		<location wl_ver="3">
+				<province>서울ㆍ인천ㆍ경기도</province>
+				<city>김포</city>
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-04-24 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>12</tmn>
+					<tmx>23</tmx>
+					<reliability></reliability>
+					<rnSt>20</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-04-24 12:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>12</tmn>
+					<tmx>23</tmx>
+					<reliability></reliability>
+					<rnSt>0</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-04-25 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>11</tmn>
+					<tmx>23</tmx>
+					<reliability></reliability>
+					<rnSt>0</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-04-25 12:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>11</tmn>
+					<tmx>23</tmx>
+					<reliability></reliability>
+					<rnSt>30</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-04-26 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>11</tmn>
+					<tmx>20</tmx>
+					<reliability></reliability>
+					<rnSt>30</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-04-26 12:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>11</tmn>
+					<tmx>20</tmx>
+					<reliability></reliability>
+					<rnSt>30</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-04-27 00:00</tmEf>
+					<wf>흐림</wf>
+					<tmn>11</tmn>
+					<tmx>18</tmx>
+					<reliability></reliability>
+					<rnSt>40</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-04-27 12:00</tmEf>
+					<wf>흐림</wf>
+					<tmn>11</tmn>
+					<tmx>18</tmx>
+					<reliability></reliability>
+					<rnSt>40</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-04-28 00:00</tmEf>
+					<wf>흐림</wf>
+					<tmn>10</tmn>
+					<tmx>19</tmx>
+					<reliability></reliability>
+					<rnSt>40</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-04-28 12:00</tmEf>
+					<wf>흐림</wf>
+					<tmn>10</tmn>
+					<tmx>19</tmx>
+					<reliability></reliability>
+					<rnSt>40</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2021-04-29 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>11</tmn>
+					<tmx>19</tmx>
+					<reliability></reliability>
+					<rnSt>20</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2021-04-30 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>9</tmn>
+					<tmx>18</tmx>
+					<reliability></reliability>
+					<rnSt>20</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2021-05-01 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>9</tmn>
+					<tmx>20</tmx>
+					<reliability></reliability>
+					<rnSt>20</rnSt>
+				</data>
+
+
+		</location>
+
+		<location wl_ver="3">
+				<province>서울ㆍ인천ㆍ경기도</province>
+				<city>시흥</city>
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-04-24 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>11</tmn>
+					<tmx>23</tmx>
+					<reliability></reliability>
+					<rnSt>20</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-04-24 12:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>11</tmn>
+					<tmx>23</tmx>
+					<reliability></reliability>
+					<rnSt>0</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-04-25 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>9</tmn>
+					<tmx>22</tmx>
+					<reliability></reliability>
+					<rnSt>0</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-04-25 12:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>9</tmn>
+					<tmx>22</tmx>
+					<reliability></reliability>
+					<rnSt>30</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-04-26 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>10</tmn>
+					<tmx>20</tmx>
+					<reliability></reliability>
+					<rnSt>30</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-04-26 12:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>10</tmn>
+					<tmx>20</tmx>
+					<reliability></reliability>
+					<rnSt>30</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-04-27 00:00</tmEf>
+					<wf>흐림</wf>
+					<tmn>10</tmn>
+					<tmx>19</tmx>
+					<reliability></reliability>
+					<rnSt>40</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-04-27 12:00</tmEf>
+					<wf>흐림</wf>
+					<tmn>10</tmn>
+					<tmx>19</tmx>
+					<reliability></reliability>
+					<rnSt>40</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-04-28 00:00</tmEf>
+					<wf>흐림</wf>
+					<tmn>10</tmn>
+					<tmx>19</tmx>
+					<reliability></reliability>
+					<rnSt>40</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-04-28 12:00</tmEf>
+					<wf>흐림</wf>
+					<tmn>10</tmn>
+					<tmx>19</tmx>
+					<reliability></reliability>
+					<rnSt>40</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2021-04-29 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>11</tmn>
+					<tmx>19</tmx>
+					<reliability></reliability>
+					<rnSt>20</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2021-04-30 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>8</tmn>
+					<tmx>18</tmx>
+					<reliability></reliability>
+					<rnSt>20</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2021-05-01 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>9</tmn>
+					<tmx>19</tmx>
+					<reliability></reliability>
+					<rnSt>20</rnSt>
+				</data>
+
+
+		</location>
+
+		<location wl_ver="3">
+				<province>서울ㆍ인천ㆍ경기도</province>
+				<city>안산</city>
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-04-24 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>12</tmn>
+					<tmx>24</tmx>
+					<reliability></reliability>
+					<rnSt>20</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-04-24 12:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>12</tmn>
+					<tmx>24</tmx>
+					<reliability></reliability>
+					<rnSt>0</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-04-25 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>10</tmn>
+					<tmx>24</tmx>
+					<reliability></reliability>
+					<rnSt>0</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-04-25 12:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>10</tmn>
+					<tmx>24</tmx>
+					<reliability></reliability>
+					<rnSt>30</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-04-26 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>11</tmn>
+					<tmx>21</tmx>
+					<reliability></reliability>
+					<rnSt>30</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-04-26 12:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>11</tmn>
+					<tmx>21</tmx>
+					<reliability></reliability>
+					<rnSt>30</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-04-27 00:00</tmEf>
+					<wf>흐림</wf>
+					<tmn>10</tmn>
+					<tmx>19</tmx>
+					<reliability></reliability>
+					<rnSt>40</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-04-27 12:00</tmEf>
+					<wf>흐림</wf>
+					<tmn>10</tmn>
+					<tmx>19</tmx>
+					<reliability></reliability>
+					<rnSt>40</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-04-28 00:00</tmEf>
+					<wf>흐림</wf>
+					<tmn>11</tmn>
+					<tmx>21</tmx>
+					<reliability></reliability>
+					<rnSt>40</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-04-28 12:00</tmEf>
+					<wf>흐림</wf>
+					<tmn>11</tmn>
+					<tmx>21</tmx>
+					<reliability></reliability>
+					<rnSt>40</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2021-04-29 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>11</tmn>
+					<tmx>20</tmx>
+					<reliability></reliability>
+					<rnSt>20</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2021-04-30 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>9</tmn>
+					<tmx>19</tmx>
+					<reliability></reliability>
+					<rnSt>20</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2021-05-01 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>9</tmn>
+					<tmx>19</tmx>
+					<reliability></reliability>
+					<rnSt>20</rnSt>
+				</data>
+
+
+		</location>
+
+		<location wl_ver="3">
+				<province>서울ㆍ인천ㆍ경기도</province>
+				<city>부천</city>
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-04-24 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>12</tmn>
+					<tmx>22</tmx>
+					<reliability></reliability>
+					<rnSt>20</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-04-24 12:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>12</tmn>
+					<tmx>22</tmx>
+					<reliability></reliability>
+					<rnSt>0</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-04-25 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>11</tmn>
+					<tmx>22</tmx>
+					<reliability></reliability>
+					<rnSt>0</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-04-25 12:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>11</tmn>
+					<tmx>22</tmx>
+					<reliability></reliability>
+					<rnSt>30</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-04-26 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>12</tmn>
+					<tmx>20</tmx>
+					<reliability></reliability>
+					<rnSt>30</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-04-26 12:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>12</tmn>
+					<tmx>20</tmx>
+					<reliability></reliability>
+					<rnSt>30</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-04-27 00:00</tmEf>
+					<wf>흐림</wf>
+					<tmn>11</tmn>
+					<tmx>18</tmx>
+					<reliability></reliability>
+					<rnSt>40</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-04-27 12:00</tmEf>
+					<wf>흐림</wf>
+					<tmn>11</tmn>
+					<tmx>18</tmx>
+					<reliability></reliability>
+					<rnSt>40</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-04-28 00:00</tmEf>
+					<wf>흐림</wf>
+					<tmn>11</tmn>
+					<tmx>18</tmx>
+					<reliability></reliability>
+					<rnSt>40</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-04-28 12:00</tmEf>
+					<wf>흐림</wf>
+					<tmn>11</tmn>
+					<tmx>18</tmx>
+					<reliability></reliability>
+					<rnSt>40</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2021-04-29 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>11</tmn>
+					<tmx>19</tmx>
+					<reliability></reliability>
+					<rnSt>20</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2021-04-30 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>10</tmn>
+					<tmx>18</tmx>
+					<reliability></reliability>
+					<rnSt>20</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2021-05-01 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>11</tmn>
+					<tmx>21</tmx>
+					<reliability></reliability>
+					<rnSt>20</rnSt>
+				</data>
+
+
+		</location>
+
+		<location wl_ver="3">
+				<province>서울ㆍ인천ㆍ경기도</province>
+				<city>의정부</city>
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-04-24 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>12</tmn>
+					<tmx>24</tmx>
+					<reliability></reliability>
+					<rnSt>20</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-04-24 12:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>12</tmn>
+					<tmx>24</tmx>
+					<reliability></reliability>
+					<rnSt>0</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-04-25 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>9</tmn>
+					<tmx>23</tmx>
+					<reliability></reliability>
+					<rnSt>0</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-04-25 12:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>9</tmn>
+					<tmx>23</tmx>
+					<reliability></reliability>
+					<rnSt>30</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-04-26 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>10</tmn>
+					<tmx>21</tmx>
+					<reliability></reliability>
+					<rnSt>30</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-04-26 12:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>10</tmn>
+					<tmx>21</tmx>
+					<reliability></reliability>
+					<rnSt>30</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-04-27 00:00</tmEf>
+					<wf>흐림</wf>
+					<tmn>10</tmn>
+					<tmx>19</tmx>
+					<reliability></reliability>
+					<rnSt>40</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-04-27 12:00</tmEf>
+					<wf>흐림</wf>
+					<tmn>10</tmn>
+					<tmx>19</tmx>
+					<reliability></reliability>
+					<rnSt>40</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-04-28 00:00</tmEf>
+					<wf>흐림</wf>
+					<tmn>9</tmn>
+					<tmx>20</tmx>
+					<reliability></reliability>
+					<rnSt>40</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-04-28 12:00</tmEf>
+					<wf>흐림</wf>
+					<tmn>9</tmn>
+					<tmx>20</tmx>
+					<reliability></reliability>
+					<rnSt>40</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2021-04-29 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>10</tmn>
+					<tmx>20</tmx>
+					<reliability></reliability>
+					<rnSt>20</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2021-04-30 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>9</tmn>
+					<tmx>18</tmx>
+					<reliability></reliability>
+					<rnSt>20</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2021-05-01 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>7</tmn>
+					<tmx>21</tmx>
+					<reliability></reliability>
+					<rnSt>20</rnSt>
+				</data>
+
+
+		</location>
+
+		<location wl_ver="3">
+				<province>서울ㆍ인천ㆍ경기도</province>
+				<city>고양</city>
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-04-24 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>11</tmn>
+					<tmx>24</tmx>
+					<reliability></reliability>
+					<rnSt>20</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-04-24 12:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>11</tmn>
+					<tmx>24</tmx>
+					<reliability></reliability>
+					<rnSt>0</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-04-25 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>8</tmn>
+					<tmx>24</tmx>
+					<reliability></reliability>
+					<rnSt>0</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-04-25 12:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>8</tmn>
+					<tmx>24</tmx>
+					<reliability></reliability>
+					<rnSt>30</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-04-26 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>11</tmn>
+					<tmx>22</tmx>
+					<reliability></reliability>
+					<rnSt>30</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-04-26 12:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>11</tmn>
+					<tmx>22</tmx>
+					<reliability></reliability>
+					<rnSt>30</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-04-27 00:00</tmEf>
+					<wf>흐림</wf>
+					<tmn>10</tmn>
+					<tmx>20</tmx>
+					<reliability></reliability>
+					<rnSt>40</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-04-27 12:00</tmEf>
+					<wf>흐림</wf>
+					<tmn>10</tmn>
+					<tmx>20</tmx>
+					<reliability></reliability>
+					<rnSt>40</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-04-28 00:00</tmEf>
+					<wf>흐림</wf>
+					<tmn>8</tmn>
+					<tmx>20</tmx>
+					<reliability></reliability>
+					<rnSt>40</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-04-28 12:00</tmEf>
+					<wf>흐림</wf>
+					<tmn>8</tmn>
+					<tmx>20</tmx>
+					<reliability></reliability>
+					<rnSt>40</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2021-04-29 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>9</tmn>
+					<tmx>20</tmx>
+					<reliability></reliability>
+					<rnSt>20</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2021-04-30 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>7</tmn>
+					<tmx>20</tmx>
+					<reliability></reliability>
+					<rnSt>20</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2021-05-01 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>7</tmn>
+					<tmx>23</tmx>
+					<reliability></reliability>
+					<rnSt>20</rnSt>
+				</data>
+
+
+		</location>
+
+		<location wl_ver="3">
+				<province>서울ㆍ인천ㆍ경기도</province>
+				<city>양주</city>
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-04-24 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>9</tmn>
+					<tmx>23</tmx>
+					<reliability></reliability>
+					<rnSt>20</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-04-24 12:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>9</tmn>
+					<tmx>23</tmx>
+					<reliability></reliability>
+					<rnSt>0</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-04-25 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>8</tmn>
+					<tmx>23</tmx>
+					<reliability></reliability>
+					<rnSt>0</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-04-25 12:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>8</tmn>
+					<tmx>23</tmx>
+					<reliability></reliability>
+					<rnSt>30</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-04-26 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>9</tmn>
+					<tmx>21</tmx>
+					<reliability></reliability>
+					<rnSt>30</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-04-26 12:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>9</tmn>
+					<tmx>21</tmx>
+					<reliability></reliability>
+					<rnSt>30</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-04-27 00:00</tmEf>
+					<wf>흐림</wf>
+					<tmn>9</tmn>
+					<tmx>19</tmx>
+					<reliability></reliability>
+					<rnSt>40</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-04-27 12:00</tmEf>
+					<wf>흐림</wf>
+					<tmn>9</tmn>
+					<tmx>19</tmx>
+					<reliability></reliability>
+					<rnSt>40</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-04-28 00:00</tmEf>
+					<wf>흐림</wf>
+					<tmn>8</tmn>
+					<tmx>19</tmx>
+					<reliability></reliability>
+					<rnSt>40</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-04-28 12:00</tmEf>
+					<wf>흐림</wf>
+					<tmn>8</tmn>
+					<tmx>19</tmx>
+					<reliability></reliability>
+					<rnSt>40</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2021-04-29 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>10</tmn>
+					<tmx>20</tmx>
+					<reliability></reliability>
+					<rnSt>20</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2021-04-30 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>7</tmn>
+					<tmx>18</tmx>
+					<reliability></reliability>
+					<rnSt>20</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2021-05-01 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>6</tmn>
+					<tmx>21</tmx>
+					<reliability></reliability>
+					<rnSt>20</rnSt>
+				</data>
+
+
+		</location>
+
+		<location wl_ver="3">
+				<province>서울ㆍ인천ㆍ경기도</province>
+				<city>동두천</city>
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-04-24 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>10</tmn>
+					<tmx>25</tmx>
+					<reliability></reliability>
+					<rnSt>20</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-04-24 12:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>10</tmn>
+					<tmx>25</tmx>
+					<reliability></reliability>
+					<rnSt>0</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-04-25 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>10</tmn>
+					<tmx>24</tmx>
+					<reliability></reliability>
+					<rnSt>0</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-04-25 12:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>10</tmn>
+					<tmx>24</tmx>
+					<reliability></reliability>
+					<rnSt>30</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-04-26 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>9</tmn>
+					<tmx>22</tmx>
+					<reliability></reliability>
+					<rnSt>30</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-04-26 12:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>9</tmn>
+					<tmx>22</tmx>
+					<reliability></reliability>
+					<rnSt>30</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-04-27 00:00</tmEf>
+					<wf>흐림</wf>
+					<tmn>9</tmn>
+					<tmx>20</tmx>
+					<reliability></reliability>
+					<rnSt>40</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-04-27 12:00</tmEf>
+					<wf>흐림</wf>
+					<tmn>9</tmn>
+					<tmx>20</tmx>
+					<reliability></reliability>
+					<rnSt>40</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-04-28 00:00</tmEf>
+					<wf>흐림</wf>
+					<tmn>9</tmn>
+					<tmx>21</tmx>
+					<reliability></reliability>
+					<rnSt>40</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-04-28 12:00</tmEf>
+					<wf>흐림</wf>
+					<tmn>9</tmn>
+					<tmx>21</tmx>
+					<reliability></reliability>
+					<rnSt>40</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2021-04-29 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>9</tmn>
+					<tmx>21</tmx>
+					<reliability></reliability>
+					<rnSt>20</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2021-04-30 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>8</tmn>
+					<tmx>19</tmx>
+					<reliability></reliability>
+					<rnSt>20</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2021-05-01 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>7</tmn>
+					<tmx>21</tmx>
+					<reliability></reliability>
+					<rnSt>20</rnSt>
+				</data>
+
+
+		</location>
+
+		<location wl_ver="3">
+				<province>서울ㆍ인천ㆍ경기도</province>
+				<city>연천</city>
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-04-24 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>8</tmn>
+					<tmx>23</tmx>
+					<reliability></reliability>
+					<rnSt>20</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-04-24 12:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>8</tmn>
+					<tmx>23</tmx>
+					<reliability></reliability>
+					<rnSt>0</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-04-25 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>8</tmn>
+					<tmx>22</tmx>
+					<reliability></reliability>
+					<rnSt>0</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-04-25 12:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>8</tmn>
+					<tmx>22</tmx>
+					<reliability></reliability>
+					<rnSt>30</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-04-26 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>8</tmn>
+					<tmx>20</tmx>
+					<reliability></reliability>
+					<rnSt>30</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-04-26 12:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>8</tmn>
+					<tmx>20</tmx>
+					<reliability></reliability>
+					<rnSt>30</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-04-27 00:00</tmEf>
+					<wf>흐림</wf>
+					<tmn>8</tmn>
+					<tmx>18</tmx>
+					<reliability></reliability>
+					<rnSt>40</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-04-27 12:00</tmEf>
+					<wf>흐림</wf>
+					<tmn>8</tmn>
+					<tmx>18</tmx>
+					<reliability></reliability>
+					<rnSt>40</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-04-28 00:00</tmEf>
+					<wf>흐림</wf>
+					<tmn>7</tmn>
+					<tmx>19</tmx>
+					<reliability></reliability>
+					<rnSt>40</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-04-28 12:00</tmEf>
+					<wf>흐림</wf>
+					<tmn>7</tmn>
+					<tmx>19</tmx>
+					<reliability></reliability>
+					<rnSt>40</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2021-04-29 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>8</tmn>
+					<tmx>19</tmx>
+					<reliability></reliability>
+					<rnSt>20</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2021-04-30 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>6</tmn>
+					<tmx>17</tmx>
+					<reliability></reliability>
+					<rnSt>20</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2021-05-01 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>7</tmn>
+					<tmx>21</tmx>
+					<reliability></reliability>
+					<rnSt>20</rnSt>
+				</data>
+
+
+		</location>
+
+		<location wl_ver="3">
+				<province>서울ㆍ인천ㆍ경기도</province>
+				<city>포천</city>
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-04-24 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>9</tmn>
+					<tmx>24</tmx>
+					<reliability></reliability>
+					<rnSt>20</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-04-24 12:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>9</tmn>
+					<tmx>24</tmx>
+					<reliability></reliability>
+					<rnSt>0</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-04-25 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>8</tmn>
+					<tmx>23</tmx>
+					<reliability></reliability>
+					<rnSt>0</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-04-25 12:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>8</tmn>
+					<tmx>23</tmx>
+					<reliability></reliability>
+					<rnSt>30</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-04-26 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>9</tmn>
+					<tmx>21</tmx>
+					<reliability></reliability>
+					<rnSt>30</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-04-26 12:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>9</tmn>
+					<tmx>21</tmx>
+					<reliability></reliability>
+					<rnSt>30</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-04-27 00:00</tmEf>
+					<wf>흐림</wf>
+					<tmn>9</tmn>
+					<tmx>18</tmx>
+					<reliability></reliability>
+					<rnSt>40</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-04-27 12:00</tmEf>
+					<wf>흐림</wf>
+					<tmn>9</tmn>
+					<tmx>18</tmx>
+					<reliability></reliability>
+					<rnSt>40</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-04-28 00:00</tmEf>
+					<wf>흐림</wf>
+					<tmn>8</tmn>
+					<tmx>19</tmx>
+					<reliability></reliability>
+					<rnSt>40</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-04-28 12:00</tmEf>
+					<wf>흐림</wf>
+					<tmn>8</tmn>
+					<tmx>19</tmx>
+					<reliability></reliability>
+					<rnSt>40</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2021-04-29 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>9</tmn>
+					<tmx>20</tmx>
+					<reliability></reliability>
+					<rnSt>20</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2021-04-30 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>6</tmn>
+					<tmx>18</tmx>
+					<reliability></reliability>
+					<rnSt>20</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2021-05-01 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>6</tmn>
+					<tmx>21</tmx>
+					<reliability></reliability>
+					<rnSt>20</rnSt>
+				</data>
+
+
+		</location>
+
+		<location wl_ver="3">
+				<province>서울ㆍ인천ㆍ경기도</province>
+				<city>가평</city>
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-04-24 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>7</tmn>
+					<tmx>25</tmx>
+					<reliability></reliability>
+					<rnSt>20</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-04-24 12:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>7</tmn>
+					<tmx>25</tmx>
+					<reliability></reliability>
+					<rnSt>0</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-04-25 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>7</tmn>
+					<tmx>23</tmx>
+					<reliability></reliability>
+					<rnSt>0</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-04-25 12:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>7</tmn>
+					<tmx>23</tmx>
+					<reliability></reliability>
+					<rnSt>30</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-04-26 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>7</tmn>
+					<tmx>24</tmx>
+					<reliability></reliability>
+					<rnSt>30</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-04-26 12:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>7</tmn>
+					<tmx>24</tmx>
+					<reliability></reliability>
+					<rnSt>30</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-04-27 00:00</tmEf>
+					<wf>흐림</wf>
+					<tmn>8</tmn>
+					<tmx>20</tmx>
+					<reliability></reliability>
+					<rnSt>40</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-04-27 12:00</tmEf>
+					<wf>흐림</wf>
+					<tmn>8</tmn>
+					<tmx>20</tmx>
+					<reliability></reliability>
+					<rnSt>40</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-04-28 00:00</tmEf>
+					<wf>흐림</wf>
+					<tmn>7</tmn>
+					<tmx>22</tmx>
+					<reliability></reliability>
+					<rnSt>40</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-04-28 12:00</tmEf>
+					<wf>흐림</wf>
+					<tmn>7</tmn>
+					<tmx>22</tmx>
+					<reliability></reliability>
+					<rnSt>40</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2021-04-29 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>9</tmn>
+					<tmx>21</tmx>
+					<reliability></reliability>
+					<rnSt>20</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2021-04-30 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>6</tmn>
+					<tmx>19</tmx>
+					<reliability></reliability>
+					<rnSt>20</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2021-05-01 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>5</tmn>
+					<tmx>22</tmx>
+					<reliability></reliability>
+					<rnSt>20</rnSt>
+				</data>
+
+
+		</location>
+
+		<location wl_ver="3">
+				<province>서울ㆍ인천ㆍ경기도</province>
+				<city>구리</city>
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-04-24 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>12</tmn>
+					<tmx>24</tmx>
+					<reliability></reliability>
+					<rnSt>20</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-04-24 12:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>12</tmn>
+					<tmx>24</tmx>
+					<reliability></reliability>
+					<rnSt>0</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-04-25 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>12</tmn>
+					<tmx>24</tmx>
+					<reliability></reliability>
+					<rnSt>0</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-04-25 12:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>12</tmn>
+					<tmx>24</tmx>
+					<reliability></reliability>
+					<rnSt>30</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-04-26 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>11</tmn>
+					<tmx>22</tmx>
+					<reliability></reliability>
+					<rnSt>30</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-04-26 12:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>11</tmn>
+					<tmx>22</tmx>
+					<reliability></reliability>
+					<rnSt>30</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-04-27 00:00</tmEf>
+					<wf>흐림</wf>
+					<tmn>11</tmn>
+					<tmx>19</tmx>
+					<reliability></reliability>
+					<rnSt>40</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-04-27 12:00</tmEf>
+					<wf>흐림</wf>
+					<tmn>11</tmn>
+					<tmx>19</tmx>
+					<reliability></reliability>
+					<rnSt>40</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-04-28 00:00</tmEf>
+					<wf>흐림</wf>
+					<tmn>11</tmn>
+					<tmx>20</tmx>
+					<reliability></reliability>
+					<rnSt>40</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-04-28 12:00</tmEf>
+					<wf>흐림</wf>
+					<tmn>11</tmn>
+					<tmx>20</tmx>
+					<reliability></reliability>
+					<rnSt>40</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2021-04-29 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>11</tmn>
+					<tmx>20</tmx>
+					<reliability></reliability>
+					<rnSt>20</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2021-04-30 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>10</tmn>
+					<tmx>20</tmx>
+					<reliability></reliability>
+					<rnSt>20</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2021-05-01 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>10</tmn>
+					<tmx>22</tmx>
+					<reliability></reliability>
+					<rnSt>20</rnSt>
+				</data>
+
+
+		</location>
+
+		<location wl_ver="3">
+				<province>서울ㆍ인천ㆍ경기도</province>
+				<city>남양주</city>
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-04-24 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>11</tmn>
+					<tmx>24</tmx>
+					<reliability></reliability>
+					<rnSt>20</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-04-24 12:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>11</tmn>
+					<tmx>24</tmx>
+					<reliability></reliability>
+					<rnSt>0</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-04-25 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>9</tmn>
+					<tmx>24</tmx>
+					<reliability></reliability>
+					<rnSt>0</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-04-25 12:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>9</tmn>
+					<tmx>24</tmx>
+					<reliability></reliability>
+					<rnSt>30</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-04-26 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>9</tmn>
+					<tmx>22</tmx>
+					<reliability></reliability>
+					<rnSt>30</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-04-26 12:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>9</tmn>
+					<tmx>22</tmx>
+					<reliability></reliability>
+					<rnSt>30</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-04-27 00:00</tmEf>
+					<wf>흐림</wf>
+					<tmn>9</tmn>
+					<tmx>20</tmx>
+					<reliability></reliability>
+					<rnSt>40</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-04-27 12:00</tmEf>
+					<wf>흐림</wf>
+					<tmn>9</tmn>
+					<tmx>20</tmx>
+					<reliability></reliability>
+					<rnSt>40</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-04-28 00:00</tmEf>
+					<wf>흐림</wf>
+					<tmn>9</tmn>
+					<tmx>21</tmx>
+					<reliability></reliability>
+					<rnSt>40</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-04-28 12:00</tmEf>
+					<wf>흐림</wf>
+					<tmn>9</tmn>
+					<tmx>21</tmx>
+					<reliability></reliability>
+					<rnSt>40</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2021-04-29 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>10</tmn>
+					<tmx>19</tmx>
+					<reliability></reliability>
+					<rnSt>20</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2021-04-30 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>8</tmn>
+					<tmx>19</tmx>
+					<reliability></reliability>
+					<rnSt>20</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2021-05-01 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>6</tmn>
+					<tmx>22</tmx>
+					<reliability></reliability>
+					<rnSt>20</rnSt>
+				</data>
+
+
+		</location>
+
+		<location wl_ver="3">
+				<province>서울ㆍ인천ㆍ경기도</province>
+				<city>양평</city>
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-04-24 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>11</tmn>
+					<tmx>24</tmx>
+					<reliability></reliability>
+					<rnSt>20</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-04-24 12:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>11</tmn>
+					<tmx>24</tmx>
+					<reliability></reliability>
+					<rnSt>0</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-04-25 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>9</tmn>
+					<tmx>24</tmx>
+					<reliability></reliability>
+					<rnSt>0</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-04-25 12:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>9</tmn>
+					<tmx>24</tmx>
+					<reliability></reliability>
+					<rnSt>30</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-04-26 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>9</tmn>
+					<tmx>22</tmx>
+					<reliability></reliability>
+					<rnSt>30</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-04-26 12:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>9</tmn>
+					<tmx>22</tmx>
+					<reliability></reliability>
+					<rnSt>30</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-04-27 00:00</tmEf>
+					<wf>흐림</wf>
+					<tmn>9</tmn>
+					<tmx>20</tmx>
+					<reliability></reliability>
+					<rnSt>40</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-04-27 12:00</tmEf>
+					<wf>흐림</wf>
+					<tmn>9</tmn>
+					<tmx>20</tmx>
+					<reliability></reliability>
+					<rnSt>40</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-04-28 00:00</tmEf>
+					<wf>흐림</wf>
+					<tmn>9</tmn>
+					<tmx>21</tmx>
+					<reliability></reliability>
+					<rnSt>40</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-04-28 12:00</tmEf>
+					<wf>흐림</wf>
+					<tmn>9</tmn>
+					<tmx>21</tmx>
+					<reliability></reliability>
+					<rnSt>40</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2021-04-29 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>10</tmn>
+					<tmx>22</tmx>
+					<reliability></reliability>
+					<rnSt>20</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2021-04-30 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>8</tmn>
+					<tmx>19</tmx>
+					<reliability></reliability>
+					<rnSt>20</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2021-05-01 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>7</tmn>
+					<tmx>21</tmx>
+					<reliability></reliability>
+					<rnSt>20</rnSt>
+				</data>
+
+
+		</location>
+
+		<location wl_ver="3">
+				<province>서울ㆍ인천ㆍ경기도</province>
+				<city>하남</city>
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-04-24 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>12</tmn>
+					<tmx>25</tmx>
+					<reliability></reliability>
+					<rnSt>20</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-04-24 12:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>12</tmn>
+					<tmx>25</tmx>
+					<reliability></reliability>
+					<rnSt>0</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-04-25 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>11</tmn>
+					<tmx>24</tmx>
+					<reliability></reliability>
+					<rnSt>0</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-04-25 12:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>11</tmn>
+					<tmx>24</tmx>
+					<reliability></reliability>
+					<rnSt>30</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-04-26 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>11</tmn>
+					<tmx>23</tmx>
+					<reliability></reliability>
+					<rnSt>30</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-04-26 12:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>11</tmn>
+					<tmx>23</tmx>
+					<reliability></reliability>
+					<rnSt>30</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-04-27 00:00</tmEf>
+					<wf>흐림</wf>
+					<tmn>11</tmn>
+					<tmx>20</tmx>
+					<reliability></reliability>
+					<rnSt>40</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-04-27 12:00</tmEf>
+					<wf>흐림</wf>
+					<tmn>11</tmn>
+					<tmx>20</tmx>
+					<reliability></reliability>
+					<rnSt>40</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-04-28 00:00</tmEf>
+					<wf>흐림</wf>
+					<tmn>10</tmn>
+					<tmx>21</tmx>
+					<reliability></reliability>
+					<rnSt>40</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-04-28 12:00</tmEf>
+					<wf>흐림</wf>
+					<tmn>10</tmn>
+					<tmx>21</tmx>
+					<reliability></reliability>
+					<rnSt>40</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2021-04-29 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>11</tmn>
+					<tmx>21</tmx>
+					<reliability></reliability>
+					<rnSt>20</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2021-04-30 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>9</tmn>
+					<tmx>20</tmx>
+					<reliability></reliability>
+					<rnSt>20</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2021-05-01 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>9</tmn>
+					<tmx>22</tmx>
+					<reliability></reliability>
+					<rnSt>20</rnSt>
+				</data>
+
+
+		</location>
+
+		<location wl_ver="3">
+				<province>서울ㆍ인천ㆍ경기도</province>
+				<city>안양</city>
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-04-24 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>13</tmn>
+					<tmx>23</tmx>
+					<reliability></reliability>
+					<rnSt>20</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-04-24 12:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>13</tmn>
+					<tmx>23</tmx>
+					<reliability></reliability>
+					<rnSt>0</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-04-25 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>13</tmn>
+					<tmx>23</tmx>
+					<reliability></reliability>
+					<rnSt>0</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-04-25 12:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>13</tmn>
+					<tmx>23</tmx>
+					<reliability></reliability>
+					<rnSt>30</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-04-26 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>13</tmn>
+					<tmx>21</tmx>
+					<reliability></reliability>
+					<rnSt>30</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-04-26 12:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>13</tmn>
+					<tmx>21</tmx>
+					<reliability></reliability>
+					<rnSt>30</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-04-27 00:00</tmEf>
+					<wf>흐림</wf>
+					<tmn>12</tmn>
+					<tmx>19</tmx>
+					<reliability></reliability>
+					<rnSt>40</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-04-27 12:00</tmEf>
+					<wf>흐림</wf>
+					<tmn>12</tmn>
+					<tmx>19</tmx>
+					<reliability></reliability>
+					<rnSt>40</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-04-28 00:00</tmEf>
+					<wf>흐림</wf>
+					<tmn>12</tmn>
+					<tmx>19</tmx>
+					<reliability></reliability>
+					<rnSt>40</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-04-28 12:00</tmEf>
+					<wf>흐림</wf>
+					<tmn>12</tmn>
+					<tmx>19</tmx>
+					<reliability></reliability>
+					<rnSt>40</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2021-04-29 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>12</tmn>
+					<tmx>19</tmx>
+					<reliability></reliability>
+					<rnSt>20</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2021-04-30 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>9</tmn>
+					<tmx>17</tmx>
+					<reliability></reliability>
+					<rnSt>20</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2021-05-01 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>10</tmn>
+					<tmx>18</tmx>
+					<reliability></reliability>
+					<rnSt>20</rnSt>
+				</data>
+
+
+		</location>
+
+		<location wl_ver="3">
+				<province>서울ㆍ인천ㆍ경기도</province>
+				<city>오산</city>
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-04-24 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>11</tmn>
+					<tmx>23</tmx>
+					<reliability></reliability>
+					<rnSt>20</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-04-24 12:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>11</tmn>
+					<tmx>23</tmx>
+					<reliability></reliability>
+					<rnSt>0</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-04-25 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>10</tmn>
+					<tmx>24</tmx>
+					<reliability></reliability>
+					<rnSt>0</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-04-25 12:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>10</tmn>
+					<tmx>24</tmx>
+					<reliability></reliability>
+					<rnSt>30</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-04-26 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>10</tmn>
+					<tmx>22</tmx>
+					<reliability></reliability>
+					<rnSt>30</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-04-26 12:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>10</tmn>
+					<tmx>22</tmx>
+					<reliability></reliability>
+					<rnSt>30</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-04-27 00:00</tmEf>
+					<wf>흐림</wf>
+					<tmn>10</tmn>
+					<tmx>19</tmx>
+					<reliability></reliability>
+					<rnSt>40</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-04-27 12:00</tmEf>
+					<wf>흐림</wf>
+					<tmn>10</tmn>
+					<tmx>19</tmx>
+					<reliability></reliability>
+					<rnSt>40</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-04-28 00:00</tmEf>
+					<wf>흐림</wf>
+					<tmn>10</tmn>
+					<tmx>20</tmx>
+					<reliability></reliability>
+					<rnSt>40</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-04-28 12:00</tmEf>
+					<wf>흐림</wf>
+					<tmn>10</tmn>
+					<tmx>20</tmx>
+					<reliability></reliability>
+					<rnSt>40</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2021-04-29 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>10</tmn>
+					<tmx>19</tmx>
+					<reliability></reliability>
+					<rnSt>20</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2021-04-30 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>8</tmn>
+					<tmx>19</tmx>
+					<reliability></reliability>
+					<rnSt>20</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2021-05-01 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>8</tmn>
+					<tmx>20</tmx>
+					<reliability></reliability>
+					<rnSt>20</rnSt>
+				</data>
+
+
+		</location>
+
+		<location wl_ver="3">
+				<province>서울ㆍ인천ㆍ경기도</province>
+				<city>화성</city>
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-04-24 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>12</tmn>
+					<tmx>23</tmx>
+					<reliability></reliability>
+					<rnSt>20</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-04-24 12:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>12</tmn>
+					<tmx>23</tmx>
+					<reliability></reliability>
+					<rnSt>0</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-04-25 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>10</tmn>
+					<tmx>23</tmx>
+					<reliability></reliability>
+					<rnSt>0</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-04-25 12:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>10</tmn>
+					<tmx>23</tmx>
+					<reliability></reliability>
+					<rnSt>30</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-04-26 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>11</tmn>
+					<tmx>21</tmx>
+					<reliability></reliability>
+					<rnSt>30</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-04-26 12:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>11</tmn>
+					<tmx>21</tmx>
+					<reliability></reliability>
+					<rnSt>30</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-04-27 00:00</tmEf>
+					<wf>흐림</wf>
+					<tmn>11</tmn>
+					<tmx>19</tmx>
+					<reliability></reliability>
+					<rnSt>40</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-04-27 12:00</tmEf>
+					<wf>흐림</wf>
+					<tmn>11</tmn>
+					<tmx>19</tmx>
+					<reliability></reliability>
+					<rnSt>40</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-04-28 00:00</tmEf>
+					<wf>흐림</wf>
+					<tmn>10</tmn>
+					<tmx>20</tmx>
+					<reliability></reliability>
+					<rnSt>40</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-04-28 12:00</tmEf>
+					<wf>흐림</wf>
+					<tmn>10</tmn>
+					<tmx>20</tmx>
+					<reliability></reliability>
+					<rnSt>40</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2021-04-29 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>11</tmn>
+					<tmx>18</tmx>
+					<reliability></reliability>
+					<rnSt>20</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2021-04-30 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>10</tmn>
+					<tmx>18</tmx>
+					<reliability></reliability>
+					<rnSt>20</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2021-05-01 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>9</tmn>
+					<tmx>20</tmx>
+					<reliability></reliability>
+					<rnSt>20</rnSt>
+				</data>
+
+
+		</location>
+
+		<location wl_ver="3">
+				<province>서울ㆍ인천ㆍ경기도</province>
+				<city>성남</city>
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-04-24 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>12</tmn>
+					<tmx>24</tmx>
+					<reliability></reliability>
+					<rnSt>20</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-04-24 12:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>12</tmn>
+					<tmx>24</tmx>
+					<reliability></reliability>
+					<rnSt>0</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-04-25 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>10</tmn>
+					<tmx>24</tmx>
+					<reliability></reliability>
+					<rnSt>0</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-04-25 12:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>10</tmn>
+					<tmx>24</tmx>
+					<reliability></reliability>
+					<rnSt>30</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-04-26 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>10</tmn>
+					<tmx>22</tmx>
+					<reliability></reliability>
+					<rnSt>30</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-04-26 12:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>10</tmn>
+					<tmx>22</tmx>
+					<reliability></reliability>
+					<rnSt>30</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-04-27 00:00</tmEf>
+					<wf>흐림</wf>
+					<tmn>10</tmn>
+					<tmx>20</tmx>
+					<reliability></reliability>
+					<rnSt>40</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-04-27 12:00</tmEf>
+					<wf>흐림</wf>
+					<tmn>10</tmn>
+					<tmx>20</tmx>
+					<reliability></reliability>
+					<rnSt>40</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-04-28 00:00</tmEf>
+					<wf>흐림</wf>
+					<tmn>10</tmn>
+					<tmx>21</tmx>
+					<reliability></reliability>
+					<rnSt>40</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-04-28 12:00</tmEf>
+					<wf>흐림</wf>
+					<tmn>10</tmn>
+					<tmx>21</tmx>
+					<reliability></reliability>
+					<rnSt>40</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2021-04-29 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>11</tmn>
+					<tmx>20</tmx>
+					<reliability></reliability>
+					<rnSt>20</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2021-04-30 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>9</tmn>
+					<tmx>19</tmx>
+					<reliability></reliability>
+					<rnSt>20</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2021-05-01 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>8</tmn>
+					<tmx>21</tmx>
+					<reliability></reliability>
+					<rnSt>20</rnSt>
+				</data>
+
+
+		</location>
+
+		<location wl_ver="3">
+				<province>서울ㆍ인천ㆍ경기도</province>
+				<city>의왕</city>
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-04-24 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>11</tmn>
+					<tmx>22</tmx>
+					<reliability></reliability>
+					<rnSt>20</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-04-24 12:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>11</tmn>
+					<tmx>22</tmx>
+					<reliability></reliability>
+					<rnSt>0</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-04-25 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>9</tmn>
+					<tmx>23</tmx>
+					<reliability></reliability>
+					<rnSt>0</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-04-25 12:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>9</tmn>
+					<tmx>23</tmx>
+					<reliability></reliability>
+					<rnSt>30</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-04-26 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>10</tmn>
+					<tmx>20</tmx>
+					<reliability></reliability>
+					<rnSt>30</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-04-26 12:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>10</tmn>
+					<tmx>20</tmx>
+					<reliability></reliability>
+					<rnSt>30</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-04-27 00:00</tmEf>
+					<wf>흐림</wf>
+					<tmn>10</tmn>
+					<tmx>19</tmx>
+					<reliability></reliability>
+					<rnSt>40</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-04-27 12:00</tmEf>
+					<wf>흐림</wf>
+					<tmn>10</tmn>
+					<tmx>19</tmx>
+					<reliability></reliability>
+					<rnSt>40</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-04-28 00:00</tmEf>
+					<wf>흐림</wf>
+					<tmn>10</tmn>
+					<tmx>19</tmx>
+					<reliability></reliability>
+					<rnSt>40</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-04-28 12:00</tmEf>
+					<wf>흐림</wf>
+					<tmn>10</tmn>
+					<tmx>19</tmx>
+					<reliability></reliability>
+					<rnSt>40</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2021-04-29 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>11</tmn>
+					<tmx>18</tmx>
+					<reliability></reliability>
+					<rnSt>20</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2021-04-30 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>7</tmn>
+					<tmx>16</tmx>
+					<reliability></reliability>
+					<rnSt>20</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2021-05-01 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>8</tmn>
+					<tmx>19</tmx>
+					<reliability></reliability>
+					<rnSt>20</rnSt>
+				</data>
+
+
+		</location>
+
+		<location wl_ver="3">
+				<province>서울ㆍ인천ㆍ경기도</province>
+				<city>군포</city>
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-04-24 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>13</tmn>
+					<tmx>23</tmx>
+					<reliability></reliability>
+					<rnSt>20</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-04-24 12:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>13</tmn>
+					<tmx>23</tmx>
+					<reliability></reliability>
+					<rnSt>0</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-04-25 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>12</tmn>
+					<tmx>23</tmx>
+					<reliability></reliability>
+					<rnSt>0</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-04-25 12:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>12</tmn>
+					<tmx>23</tmx>
+					<reliability></reliability>
+					<rnSt>30</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-04-26 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>12</tmn>
+					<tmx>22</tmx>
+					<reliability></reliability>
+					<rnSt>30</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-04-26 12:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>12</tmn>
+					<tmx>22</tmx>
+					<reliability></reliability>
+					<rnSt>30</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-04-27 00:00</tmEf>
+					<wf>흐림</wf>
+					<tmn>11</tmn>
+					<tmx>19</tmx>
+					<reliability></reliability>
+					<rnSt>40</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-04-27 12:00</tmEf>
+					<wf>흐림</wf>
+					<tmn>11</tmn>
+					<tmx>19</tmx>
+					<reliability></reliability>
+					<rnSt>40</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-04-28 00:00</tmEf>
+					<wf>흐림</wf>
+					<tmn>12</tmn>
+					<tmx>19</tmx>
+					<reliability></reliability>
+					<rnSt>40</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-04-28 12:00</tmEf>
+					<wf>흐림</wf>
+					<tmn>12</tmn>
+					<tmx>19</tmx>
+					<reliability></reliability>
+					<rnSt>40</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2021-04-29 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>12</tmn>
+					<tmx>19</tmx>
+					<reliability></reliability>
+					<rnSt>20</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2021-04-30 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>9</tmn>
+					<tmx>18</tmx>
+					<reliability></reliability>
+					<rnSt>20</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2021-05-01 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>10</tmn>
+					<tmx>19</tmx>
+					<reliability></reliability>
+					<rnSt>20</rnSt>
+				</data>
+
+
+		</location>
+
+		<location wl_ver="3">
+				<province>서울ㆍ인천ㆍ경기도</province>
+				<city>안성</city>
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-04-24 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>11</tmn>
+					<tmx>23</tmx>
+					<reliability></reliability>
+					<rnSt>20</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-04-24 12:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>11</tmn>
+					<tmx>23</tmx>
+					<reliability></reliability>
+					<rnSt>0</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-04-25 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>8</tmn>
+					<tmx>24</tmx>
+					<reliability></reliability>
+					<rnSt>0</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-04-25 12:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>8</tmn>
+					<tmx>24</tmx>
+					<reliability></reliability>
+					<rnSt>30</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-04-26 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>10</tmn>
+					<tmx>23</tmx>
+					<reliability></reliability>
+					<rnSt>30</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-04-26 12:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>10</tmn>
+					<tmx>23</tmx>
+					<reliability></reliability>
+					<rnSt>30</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-04-27 00:00</tmEf>
+					<wf>흐림</wf>
+					<tmn>10</tmn>
+					<tmx>20</tmx>
+					<reliability></reliability>
+					<rnSt>40</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-04-27 12:00</tmEf>
+					<wf>흐림</wf>
+					<tmn>10</tmn>
+					<tmx>20</tmx>
+					<reliability></reliability>
+					<rnSt>40</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-04-28 00:00</tmEf>
+					<wf>흐림</wf>
+					<tmn>9</tmn>
+					<tmx>21</tmx>
+					<reliability></reliability>
+					<rnSt>40</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-04-28 12:00</tmEf>
+					<wf>흐림</wf>
+					<tmn>9</tmn>
+					<tmx>21</tmx>
+					<reliability></reliability>
+					<rnSt>40</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2021-04-29 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>11</tmn>
+					<tmx>20</tmx>
+					<reliability></reliability>
+					<rnSt>20</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2021-04-30 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>8</tmn>
+					<tmx>19</tmx>
+					<reliability></reliability>
+					<rnSt>20</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2021-05-01 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>8</tmn>
+					<tmx>21</tmx>
+					<reliability></reliability>
+					<rnSt>20</rnSt>
+				</data>
+
+
+		</location>
+
+		<location wl_ver="3">
+				<province>서울ㆍ인천ㆍ경기도</province>
+				<city>용인</city>
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-04-24 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>11</tmn>
+					<tmx>23</tmx>
+					<reliability></reliability>
+					<rnSt>20</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-04-24 12:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>11</tmn>
+					<tmx>23</tmx>
+					<reliability></reliability>
+					<rnSt>0</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-04-25 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>10</tmn>
+					<tmx>23</tmx>
+					<reliability></reliability>
+					<rnSt>0</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-04-25 12:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>10</tmn>
+					<tmx>23</tmx>
+					<reliability></reliability>
+					<rnSt>30</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-04-26 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>9</tmn>
+					<tmx>22</tmx>
+					<reliability></reliability>
+					<rnSt>30</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-04-26 12:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>9</tmn>
+					<tmx>22</tmx>
+					<reliability></reliability>
+					<rnSt>30</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-04-27 00:00</tmEf>
+					<wf>흐림</wf>
+					<tmn>9</tmn>
+					<tmx>20</tmx>
+					<reliability></reliability>
+					<rnSt>40</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-04-27 12:00</tmEf>
+					<wf>흐림</wf>
+					<tmn>9</tmn>
+					<tmx>20</tmx>
+					<reliability></reliability>
+					<rnSt>40</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-04-28 00:00</tmEf>
+					<wf>흐림</wf>
+					<tmn>9</tmn>
+					<tmx>21</tmx>
+					<reliability></reliability>
+					<rnSt>40</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-04-28 12:00</tmEf>
+					<wf>흐림</wf>
+					<tmn>9</tmn>
+					<tmx>21</tmx>
+					<reliability></reliability>
+					<rnSt>40</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2021-04-29 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>10</tmn>
+					<tmx>19</tmx>
+					<reliability></reliability>
+					<rnSt>20</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2021-04-30 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>8</tmn>
+					<tmx>19</tmx>
+					<reliability></reliability>
+					<rnSt>20</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2021-05-01 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>7</tmn>
+					<tmx>20</tmx>
+					<reliability></reliability>
+					<rnSt>20</rnSt>
+				</data>
+
+
+		</location>
+
+		<location wl_ver="3">
+				<province>서울ㆍ인천ㆍ경기도</province>
+				<city>광주</city>
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-04-24 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>11</tmn>
+					<tmx>23</tmx>
+					<reliability></reliability>
+					<rnSt>20</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-04-24 12:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>11</tmn>
+					<tmx>23</tmx>
+					<reliability></reliability>
+					<rnSt>0</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-04-25 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>9</tmn>
+					<tmx>23</tmx>
+					<reliability></reliability>
+					<rnSt>0</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-04-25 12:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>9</tmn>
+					<tmx>23</tmx>
+					<reliability></reliability>
+					<rnSt>30</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-04-26 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>10</tmn>
+					<tmx>22</tmx>
+					<reliability></reliability>
+					<rnSt>30</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-04-26 12:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>10</tmn>
+					<tmx>22</tmx>
+					<reliability></reliability>
+					<rnSt>30</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-04-27 00:00</tmEf>
+					<wf>흐림</wf>
+					<tmn>9</tmn>
+					<tmx>20</tmx>
+					<reliability></reliability>
+					<rnSt>40</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-04-27 12:00</tmEf>
+					<wf>흐림</wf>
+					<tmn>9</tmn>
+					<tmx>20</tmx>
+					<reliability></reliability>
+					<rnSt>40</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-04-28 00:00</tmEf>
+					<wf>흐림</wf>
+					<tmn>9</tmn>
+					<tmx>20</tmx>
+					<reliability></reliability>
+					<rnSt>40</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-04-28 12:00</tmEf>
+					<wf>흐림</wf>
+					<tmn>9</tmn>
+					<tmx>20</tmx>
+					<reliability></reliability>
+					<rnSt>40</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2021-04-29 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>10</tmn>
+					<tmx>20</tmx>
+					<reliability></reliability>
+					<rnSt>20</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2021-04-30 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>8</tmn>
+					<tmx>19</tmx>
+					<reliability></reliability>
+					<rnSt>20</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2021-05-01 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>7</tmn>
+					<tmx>21</tmx>
+					<reliability></reliability>
+					<rnSt>20</rnSt>
+				</data>
+
+
+		</location>
+
+		<location wl_ver="3">
+				<province>서울ㆍ인천ㆍ경기도</province>
+				<city>여주</city>
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-04-24 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>10</tmn>
+					<tmx>24</tmx>
+					<reliability></reliability>
+					<rnSt>20</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-04-24 12:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>10</tmn>
+					<tmx>24</tmx>
+					<reliability></reliability>
+					<rnSt>0</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-04-25 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>10</tmn>
+					<tmx>24</tmx>
+					<reliability></reliability>
+					<rnSt>0</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-04-25 12:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>10</tmn>
+					<tmx>24</tmx>
+					<reliability></reliability>
+					<rnSt>30</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-04-26 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>9</tmn>
+					<tmx>23</tmx>
+					<reliability></reliability>
+					<rnSt>30</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-04-26 12:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>9</tmn>
+					<tmx>23</tmx>
+					<reliability></reliability>
+					<rnSt>30</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-04-27 00:00</tmEf>
+					<wf>흐림</wf>
+					<tmn>9</tmn>
+					<tmx>22</tmx>
+					<reliability></reliability>
+					<rnSt>40</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-04-27 12:00</tmEf>
+					<wf>흐림</wf>
+					<tmn>9</tmn>
+					<tmx>22</tmx>
+					<reliability></reliability>
+					<rnSt>40</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-04-28 00:00</tmEf>
+					<wf>흐림</wf>
+					<tmn>9</tmn>
+					<tmx>22</tmx>
+					<reliability></reliability>
+					<rnSt>40</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-04-28 12:00</tmEf>
+					<wf>흐림</wf>
+					<tmn>9</tmn>
+					<tmx>22</tmx>
+					<reliability></reliability>
+					<rnSt>40</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2021-04-29 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>9</tmn>
+					<tmx>20</tmx>
+					<reliability></reliability>
+					<rnSt>20</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2021-04-30 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>8</tmn>
+					<tmx>19</tmx>
+					<reliability></reliability>
+					<rnSt>20</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2021-05-01 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>7</tmn>
+					<tmx>22</tmx>
+					<reliability></reliability>
+					<rnSt>20</rnSt>
+				</data>
+
+
+		</location>
+
+
+	
+
+	</body>
+</description>
+</item>
+</channel>
+</rss>	
