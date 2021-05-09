@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>s3에 업로드 한 파일 리스트</title>
+</head>
+<body>
+    <!--HTML 주석-->
+    {# 플라스트 주석 #}
+    <p>pybo.py 가 나한테 파일 리스트를 줌</p>
+    <p>이름을 file_list 라고 줌</p>
+    <p>pybo.py가 준 file_list 변수를 출력 함 변수출력은 브레이스 중괄호 두개</p>
+    <p>file_list = {{file_list}}</p>
+    <p>파이썬은 0, None(변수x),Null(객체x), ""은 다 False 입니다.</p>
+    <p>파이썬은 0이 아니고, None이 아니고,Null이 아니고, ""이 아니면 다 True 입니다.</p>
+    <p>file_list 라는 변수가 존재하는지 첵크 존재 않하면 None </p>
+    <p>file_list 는 None이랑 같나> file_list는 존재해서 None 아님 그래서 True</p>
+
+    {% if a %}
+        조건 a는 None 아니라서 참 True
+    {% else %}
+        조건 a는 None False
+    {% endif %}
+
+    {% if file_list %}
+        <p>조건 file_list는 None 아니라서 참 True</p>
+        <ul>
+        {% for file in file_list%}
+
+            <li>
+                <form action="DownloadFile" method="post">
+                    <input value="{{file.Key}}" name="hahaha"/>
+                    <input type="submit" value="다운로드"/>
+                </form>
+            </li>
+                <!-- li는 파일 앞 땡그라미를 붙여줌 -->
+                <!--  input type 으로  파일옆 다운로드 버튼 나온다-->
+                <!--    form 테크로 싸고 있지 않으면 다운로드 버튼이 반응이 없다-->
+        {% endfor %}
+        </ul>
+    {% else %}
+        조건 False
+    {% endif %}
+
+
+    {{file_list == None}}
+</body>
+</html>
